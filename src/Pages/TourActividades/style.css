@@ -1,0 +1,8 @@
+.contenedor-tour {
+    width: 80%;
+    height: calc(100vh - 250px);
+}
+
+.contenedor-tour img {
+    border-radius: 5px;
+}

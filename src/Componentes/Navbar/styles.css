@@ -1,0 +1,9 @@
+.email-link {
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.email-link:hover {
+    color: #fb7185;
+}
